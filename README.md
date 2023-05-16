@@ -1,1 +1,1 @@
-Experts Advice is a softare product powered by vector embedding search. I take the best experts on Youtube in producitivity, marketing, health, entrepreneurship & more and use their transcript data to create semantic search resulting in GPT-4 Powered Experts!
+Experts Advice is a software product powered by vector embedding search. I take the best experts on Youtube in producitivity, marketing, health, entrepreneurship & more and use their transcript data to create semantic search resulting in GPT-4 Powered Experts!
